@@ -13,21 +13,21 @@ AgriNova is an innovative IoT solution aimed at optimizing irrigation in agricul
 
 ## Tech Stack
 
-- **Frontend**: Vite + React
-- **Backend**: NodeMCU (ESP8266/ESP32)
-- **IoT Platform**: Blynk for real-time control and monitoring
-- **Sensors**: Soil Moisture, DHT11 (Temperature & Humidity), Water Flow, LDR, Water Sensor
+- **Frontend**: Vite + React  
+- **Backend**: NodeMCU (ESP8266/ESP32)  
+- **IoT Platform**: Blynk for real-time control and monitoring  
+- **Sensors**: Soil Moisture, DHT11 (Temperature & Humidity), Water Flow, LDR, Water Sensor  
 - **Deployment**: TBD (e.g., Firebase, Netlify, etc.)
 
 ## Installation
 
 ### Prerequisites
 
-- **Node.js**: Ensure you have Node.js installed.
+- **Node.js**: Ensure you have Node.js installed.  
 - **Vite**: Vite should be installed globally.
 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/shivam-daksh/AgriNova.git
+git clone https://github.com/AyushiGupta20/AgriNova.git
 cd AgriNova
